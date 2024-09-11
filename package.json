@@ -64,7 +64,7 @@
     "react": "^16.14.0",
     "react-custom-scrollbars": "^4.2.1",
     "react-dom": "^16.14.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.0.0",
     "react-toastify": "^6.2.0",
     "react-toggle": "^4.1.1",
     "react-virtualized-auto-sizer": "^1.0.2",
